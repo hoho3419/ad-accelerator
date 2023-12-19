@@ -1,4 +1,4 @@
-# Ad Accelerator
+# Ad Accelerato
 
 ## What is it?
 
